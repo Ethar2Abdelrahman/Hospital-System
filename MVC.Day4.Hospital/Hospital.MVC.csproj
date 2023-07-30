@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Views\Doctors\**" />
+    <Content Remove="Views\Doctors\**" />
+    <EmbeddedResource Remove="Views\Doctors\**" />
+    <None Remove="Views\Doctors\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hospital.BL\Hospital.BL.csproj" />
+  </ItemGroup>
+
+</Project>

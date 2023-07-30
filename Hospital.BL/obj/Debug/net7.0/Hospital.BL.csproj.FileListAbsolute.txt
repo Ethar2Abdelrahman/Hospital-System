@@ -1,0 +1,15 @@
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\bin\Debug\net7.0\Hospital.BL.deps.json
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\bin\Debug\net7.0\Hospital.BL.dll
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\bin\Debug\net7.0\Hospital.BL.pdb
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.dll
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\bin\Debug\net7.0\Hospital.DAL.pdb
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.AssemblyReference.cache
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\obj\Debug\net7.0\Hospital.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfoInputs.cache
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\obj\Debug\net7.0\Hospital.BL.AssemblyInfo.cs
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CoreCompileInputs.cache
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\obj\Debug\net7.0\Hospital.BL.csproj.CopyComplete
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\obj\Debug\net7.0\Hospital.BL.dll
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\obj\Debug\net7.0\refint\Hospital.BL.dll
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\obj\Debug\net7.0\Hospital.BL.pdb
+C:\Users\TIBA\source\Ethar Abdelrahman\MVC.Day4.Hospital\Hospital.BL\obj\Debug\net7.0\ref\Hospital.BL.dll

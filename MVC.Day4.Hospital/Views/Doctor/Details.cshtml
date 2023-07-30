@@ -1,0 +1,14 @@
+﻿@model DoctorDetailsVM
+
+
+<p>Doctor Name : @Model.Name</p>
+<p>Doctor Specialization  : @Model.Specialization</p>
+<p>Doctor PerformanceRate : @Model.PerformanceRate</p>
+
+<br />
+patient:
+@foreach (var patient in Model.Patients){
+    @patient.Name
+    <br />
+    @patient.NumberOfIssue
+}

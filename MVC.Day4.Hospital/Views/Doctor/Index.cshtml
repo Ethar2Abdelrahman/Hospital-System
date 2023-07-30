@@ -1,0 +1,25 @@
+﻿@model IEnumerable<DoctorReadVM>
+
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Specialization</th>
+            <th>Performance Rate</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var doctor in Model)
+        {
+            <tr>
+                <td>@doctor.Id</td>
+                <td>@doctor.Name</td>
+                <td>@doctor.Specializatuon</td>
+                <td>@doctor.PerformanceRate</td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
